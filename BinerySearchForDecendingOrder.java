@@ -1,6 +1,6 @@
 public class BinerySearchForDecendingOrder {
     public static void main(String[] args) {
-        int[] arr={36,20,17,13,11,9,6,4,3,2,1};
+        int[] arr={13,11,9,6,4,3,2,1};
         int target=9;
         int ans=search(arr,target);
         System.out.println(ans);
